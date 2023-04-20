@@ -9,3 +9,5 @@
 Modifique e/ou adicione novas instruções de como rodar a aplicação feita em Node.JS.
 
 Lembre-se: não estaremos avaliando seu conhecimento em desenvolvimento em Node.JS mas sim em como rodar e realizar o deploy dela em contêiners.
+
+## Bugs encontrados durante o desafio

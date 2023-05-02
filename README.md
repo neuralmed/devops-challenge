@@ -75,7 +75,7 @@ Aceitaremos um patch deste repositório com suas alterações locais. Para isso,
 
 6. Gere um arquivo .patch com suas modificações locais
 
-    `git format-patch --signoff master --stdout > git.patch`
+    `git format-patch --signoff main --stdout > git.patch`
 
 7. Responda o e-mail anexando o git.patch. Mande compactado ou compartilhado em forma de link para download.
 
